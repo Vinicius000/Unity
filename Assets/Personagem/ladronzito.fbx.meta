@@ -1,0 +1,655 @@
+fileFormatVersion: 2
+guid: 4601fb4017c922d49832d1a61ca9d282
+timeCreated: 1490994020
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cube
+    100002: Cube_001
+    100004: Cube_002
+    100006: Cube_003
+    100008: Cube_004
+    100010: Cube_005
+    100012: Cube_006
+    100014: Cube_007
+    100016: Cube_008
+    100018: Cube_009
+    100020: Cube_010
+    100022: Cube_011
+    100024: Cube_012
+    100026: Cube_013
+    100028: Cube_014
+    100030: Cube_015
+    100032: Cube_016
+    100034: Cube_017
+    100036: Cube_018
+    100038: Cube_019
+    100040: Cube_020
+    100042: Cube_021
+    100044: Cube_022
+    100046: Cube_023
+    100048: Cube_024
+    100050: Cube_025
+    100052: Cube_026
+    100054: Cube_031
+    100056: Cylinder
+    100058: Cylinder_001
+    100060: Cylinder_002
+    100062: Cylinder_003
+    100064: Cylinder_004
+    100066: Cylinder_005
+    100068: Cylinder_006
+    100070: Cylinder_007
+    100072: Cylinder_008
+    100074: Cylinder_009
+    100076: Cylinder_010
+    100078: Cylinder_011
+    100080: Cylinder_012
+    100082: //RootNode
+    100084: Sphere
+    100086: Sphere_003
+    100088: Sphere_004
+    400000: Cube
+    400002: Cube_001
+    400004: Cube_002
+    400006: Cube_003
+    400008: Cube_004
+    400010: Cube_005
+    400012: Cube_006
+    400014: Cube_007
+    400016: Cube_008
+    400018: Cube_009
+    400020: Cube_010
+    400022: Cube_011
+    400024: Cube_012
+    400026: Cube_013
+    400028: Cube_014
+    400030: Cube_015
+    400032: Cube_016
+    400034: Cube_017
+    400036: Cube_018
+    400038: Cube_019
+    400040: Cube_020
+    400042: Cube_021
+    400044: Cube_022
+    400046: Cube_023
+    400048: Cube_024
+    400050: Cube_025
+    400052: Cube_026
+    400054: Cube_031
+    400056: Cylinder
+    400058: Cylinder_001
+    400060: Cylinder_002
+    400062: Cylinder_003
+    400064: Cylinder_004
+    400066: Cylinder_005
+    400068: Cylinder_006
+    400070: Cylinder_007
+    400072: Cylinder_008
+    400074: Cylinder_009
+    400076: Cylinder_010
+    400078: Cylinder_011
+    400080: Cylinder_012
+    400082: //RootNode
+    400084: Sphere
+    400086: Sphere_003
+    400088: Sphere_004
+    2300000: Cube
+    2300002: Cube_001
+    2300004: Cube_002
+    2300006: Cube_003
+    2300008: Cube_004
+    2300010: Cube_005
+    2300012: Cube_006
+    2300014: Cube_007
+    2300016: Cube_008
+    2300018: Cube_009
+    2300020: Cube_010
+    2300022: Cube_011
+    2300024: Cube_012
+    2300026: Cube_013
+    2300028: Cube_014
+    2300030: Cube_015
+    2300032: Cube_016
+    2300034: Cube_017
+    2300036: Cube_018
+    2300038: Cube_019
+    2300040: Cube_020
+    2300042: Cube_021
+    2300044: Cube_022
+    2300046: Cube_023
+    2300048: Cube_024
+    2300050: Cube_025
+    2300052: Cube_026
+    2300054: Cube_031
+    2300056: Cylinder
+    2300058: Cylinder_001
+    2300060: Cylinder_002
+    2300062: Cylinder_003
+    2300064: Cylinder_004
+    2300066: Cylinder_005
+    2300068: Cylinder_006
+    2300070: Cylinder_007
+    2300072: Cylinder_008
+    2300074: Cylinder_009
+    2300076: Cylinder_010
+    2300078: Cylinder_011
+    2300080: Cylinder_012
+    2300082: Sphere
+    2300084: Sphere_003
+    2300086: Sphere_004
+    3300000: Cube
+    3300002: Cube_001
+    3300004: Cube_002
+    3300006: Cube_003
+    3300008: Cube_004
+    3300010: Cube_005
+    3300012: Cube_006
+    3300014: Cube_007
+    3300016: Cube_008
+    3300018: Cube_009
+    3300020: Cube_010
+    3300022: Cube_011
+    3300024: Cube_012
+    3300026: Cube_013
+    3300028: Cube_014
+    3300030: Cube_015
+    3300032: Cube_016
+    3300034: Cube_017
+    3300036: Cube_018
+    3300038: Cube_019
+    3300040: Cube_020
+    3300042: Cube_021
+    3300044: Cube_022
+    3300046: Cube_023
+    3300048: Cube_024
+    3300050: Cube_025
+    3300052: Cube_026
+    3300054: Cube_031
+    3300056: Cylinder
+    3300058: Cylinder_001
+    3300060: Cylinder_002
+    3300062: Cylinder_003
+    3300064: Cylinder_004
+    3300066: Cylinder_005
+    3300068: Cylinder_006
+    3300070: Cylinder_007
+    3300072: Cylinder_008
+    3300074: Cylinder_009
+    3300076: Cylinder_010
+    3300078: Cylinder_011
+    3300080: Cylinder_012
+    3300082: Sphere
+    3300084: Sphere_003
+    3300086: Sphere_004
+    4300000: Cube_026
+    4300002: Cube_025
+    4300004: Cube_024
+    4300006: Cube_031
+    4300008: Cylinder_012
+    4300010: Cylinder_011
+    4300012: Cylinder_008
+    4300014: Cylinder_005
+    4300016: Sphere_004
+    4300018: Cube_022
+    4300020: Cube_021
+    4300022: Cube_020
+    4300024: Cube_006
+    4300026: Cube_005
+    4300028: Cube_004
+    4300030: Cube_002
+    4300032: Cube_001
+    4300034: Cube_010
+    4300036: Cube_009
+    4300038: Cube_008
+    4300040: Cube_007
+    4300042: Cube_019
+    4300044: Cube_018
+    4300046: Cube_017
+    4300048: Cube_016
+    4300050: Cube_015
+    4300052: Cube_014
+    4300054: Cube_013
+    4300056: Cube_012
+    4300058: Cube_011
+    4300060: Cube_003
+    4300062: Cylinder_010
+    4300064: Cylinder_009
+    4300066: Cylinder_007
+    4300068: Cylinder_006
+    4300070: Cylinder_004
+    4300072: Cylinder_003
+    4300074: Cylinder_002
+    4300076: Cylinder_001
+    4300078: Cylinder
+    4300080: Cube
+    4300082: Cube_023
+    4300084: Sphere_003
+    4300086: Sphere
+    7400000: aguardando
+    7400002: pulando
+    7400004: morrendo
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: aguardando
+      takeName: Default Take
+      firstFrame: 40
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      - path: Cube_002
+        weight: 1
+      - path: Cube_003
+        weight: 1
+      - path: Cube_004
+        weight: 1
+      - path: Cube_005
+        weight: 1
+      - path: Cube_006
+        weight: 1
+      - path: Cube_007
+        weight: 1
+      - path: Cube_008
+        weight: 1
+      - path: Cube_009
+        weight: 1
+      - path: Cube_010
+        weight: 1
+      - path: Cube_011
+        weight: 1
+      - path: Cube_012
+        weight: 1
+      - path: Cube_013
+        weight: 1
+      - path: Cube_014
+        weight: 1
+      - path: Cube_015
+        weight: 1
+      - path: Cube_016
+        weight: 1
+      - path: Cube_017
+        weight: 1
+      - path: Cube_018
+        weight: 1
+      - path: Cube_019
+        weight: 1
+      - path: Cube_020
+        weight: 1
+      - path: Cube_021
+        weight: 1
+      - path: Cube_022
+        weight: 1
+      - path: Cube_023
+        weight: 1
+      - path: Cube_024
+        weight: 1
+      - path: Cube_025
+        weight: 1
+      - path: Cube_026
+        weight: 1
+      - path: Cube_031
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: Cylinder_002
+        weight: 1
+      - path: Cylinder_003
+        weight: 1
+      - path: Cylinder_004
+        weight: 1
+      - path: Cylinder_005
+        weight: 1
+      - path: Cylinder_006
+        weight: 1
+      - path: Cylinder_007
+        weight: 1
+      - path: Cylinder_008
+        weight: 1
+      - path: Cylinder_009
+        weight: 1
+      - path: Cylinder_010
+        weight: 1
+      - path: Cylinder_011
+        weight: 1
+      - path: Cylinder_012
+        weight: 1
+      - path: Sphere
+        weight: 1
+      - path: Sphere_003
+        weight: 1
+      - path: Sphere_004
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: pulando
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      - path: Cube_002
+        weight: 1
+      - path: Cube_003
+        weight: 1
+      - path: Cube_004
+        weight: 1
+      - path: Cube_005
+        weight: 1
+      - path: Cube_006
+        weight: 1
+      - path: Cube_007
+        weight: 1
+      - path: Cube_008
+        weight: 1
+      - path: Cube_009
+        weight: 1
+      - path: Cube_010
+        weight: 1
+      - path: Cube_011
+        weight: 1
+      - path: Cube_012
+        weight: 1
+      - path: Cube_013
+        weight: 1
+      - path: Cube_014
+        weight: 1
+      - path: Cube_015
+        weight: 1
+      - path: Cube_016
+        weight: 1
+      - path: Cube_017
+        weight: 1
+      - path: Cube_018
+        weight: 1
+      - path: Cube_019
+        weight: 1
+      - path: Cube_020
+        weight: 1
+      - path: Cube_021
+        weight: 1
+      - path: Cube_022
+        weight: 1
+      - path: Cube_023
+        weight: 1
+      - path: Cube_024
+        weight: 1
+      - path: Cube_025
+        weight: 1
+      - path: Cube_026
+        weight: 1
+      - path: Cube_031
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: Cylinder_002
+        weight: 1
+      - path: Cylinder_003
+        weight: 1
+      - path: Cylinder_004
+        weight: 1
+      - path: Cylinder_005
+        weight: 1
+      - path: Cylinder_006
+        weight: 1
+      - path: Cylinder_007
+        weight: 1
+      - path: Cylinder_008
+        weight: 1
+      - path: Cylinder_009
+        weight: 1
+      - path: Cylinder_010
+        weight: 1
+      - path: Cylinder_011
+        weight: 1
+      - path: Cylinder_012
+        weight: 1
+      - path: Sphere
+        weight: 1
+      - path: Sphere_003
+        weight: 1
+      - path: Sphere_004
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: morrendo
+      takeName: Default Take
+      firstFrame: 140
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube
+        weight: 1
+      - path: Cube_001
+        weight: 1
+      - path: Cube_002
+        weight: 1
+      - path: Cube_003
+        weight: 1
+      - path: Cube_004
+        weight: 1
+      - path: Cube_005
+        weight: 1
+      - path: Cube_006
+        weight: 1
+      - path: Cube_007
+        weight: 1
+      - path: Cube_008
+        weight: 1
+      - path: Cube_009
+        weight: 1
+      - path: Cube_010
+        weight: 1
+      - path: Cube_011
+        weight: 1
+      - path: Cube_012
+        weight: 1
+      - path: Cube_013
+        weight: 1
+      - path: Cube_014
+        weight: 1
+      - path: Cube_015
+        weight: 1
+      - path: Cube_016
+        weight: 1
+      - path: Cube_017
+        weight: 1
+      - path: Cube_018
+        weight: 1
+      - path: Cube_019
+        weight: 1
+      - path: Cube_020
+        weight: 1
+      - path: Cube_021
+        weight: 1
+      - path: Cube_022
+        weight: 1
+      - path: Cube_023
+        weight: 1
+      - path: Cube_024
+        weight: 1
+      - path: Cube_025
+        weight: 1
+      - path: Cube_026
+        weight: 1
+      - path: Cube_031
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: Cylinder_002
+        weight: 1
+      - path: Cylinder_003
+        weight: 1
+      - path: Cylinder_004
+        weight: 1
+      - path: Cylinder_005
+        weight: 1
+      - path: Cylinder_006
+        weight: 1
+      - path: Cylinder_007
+        weight: 1
+      - path: Cylinder_008
+        weight: 1
+      - path: Cylinder_009
+        weight: 1
+      - path: Cylinder_010
+        weight: 1
+      - path: Cylinder_011
+        weight: 1
+      - path: Cylinder_012
+        weight: 1
+      - path: Sphere
+        weight: 1
+      - path: Sphere_003
+        weight: 1
+      - path: Sphere_004
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
