@@ -491,7 +491,7 @@ ModelImporter:
     - serializedVersion: 16
       name: morrendo
       takeName: Default Take
-      firstFrame: 140
+      firstFrame: 165
       lastFrame: 190
       wrapMode: 0
       orientationOffsetY: 0
