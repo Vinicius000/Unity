@@ -10,6 +10,7 @@ public class GameController : MonoBehaviour {
     public float espera;
     public float tempoDestruicao;
 
+    public GameObject prancha;
 
     public static GameController instancia = null;
 
@@ -29,7 +30,7 @@ public class GameController : MonoBehaviour {
 
     IEnumerator GerarObstaculos() {
         while (GameController.instancia.estado == Estado.Jogando) {
-            Vector3 pos = new Vector3(0.87f, Random.Range(0.321f, -1.222f), 0f);
+            Vector3 pos = new Vector3(3f, Random.Range(1f, 2f), -7.7f);
             GameObject obj = Instantiate(obstaculo, pos, Quaternion.identity) as GameObject;
             Destroy(obj, tempoDestruicao);
             yield return new WaitForSeconds(espera);
@@ -43,6 +44,7 @@ public class GameController : MonoBehaviour {
 
     public void PlayerMorreu() {
         estado = Estado.GameOver;
+        prancha.SetActive (false);
     }
 }
 

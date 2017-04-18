@@ -11,7 +11,8 @@ public class FantasmaMove : MonoBehaviour {
     public float espera;
 
     void Start() {
-        StartCoroutine(Move(min));
+        float direcao = (Random.Range(0f, 1f) < 0.5) ? min : max;
+        StartCoroutine(Move(direcao));
     }
 
     IEnumerator Move(float destino) {
