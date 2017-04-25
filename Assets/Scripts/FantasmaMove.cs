@@ -10,6 +10,9 @@ public class FantasmaMove : MonoBehaviour {
     public float max;
     public float espera;
 
+    private GameObject player;
+    private bool pontuou = false;
+
     void Start() {
         float direcao = (Random.Range(0f, 1f) < 0.5) ? min : max;
         StartCoroutine(Move(direcao));
@@ -29,10 +32,22 @@ public class FantasmaMove : MonoBehaviour {
         StartCoroutine(Move(destino));
     }
 
-    void Update() {
+    void Update()
+    {
         Vector3 velocidadeVetorial = Vector3.left * velocidadeHorizontal;
         transform.position = transform.position + velocidadeVetorial * Time.deltaTime;
-
+        if (!pontuou && GameController.instancia.estado == Estado.Jogando)
+        {
+            if (transform.position.x < player.transform.position.x)
+            {
+                GameController.instancia.incrementarPontos(1);
+                pontuou = true;
+            }
+        }
+    }
+    private void Awake()
+    {
+        player = GameObject.Find("Player");
     }
 }
 
